@@ -3,11 +3,11 @@
   <div class="intro">
 
     <div class="intro_media">
-      <video loop class="intro__media-video" autoplay muted playsinline preload="yes" src="/video.mp4" type="video/mp4"/>
+      <video class="intro__media-video" autoplay loop muted playsinline preload="yes" src="/video.mp4" type="video/mp4"/>
     </div>
 
     <a href="https://baltbetpartners.partner.alanbase.com/registration" class="logo">
-      <img src="/logo.png" alt="Иконка">
+      <img src="/logo.png" alt="logo">
     </a>
 
     <a href="https://baltbetpartners.partner.alanbase.com/registration" class="become_a_partner">
